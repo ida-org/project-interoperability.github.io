@@ -6,10 +6,16 @@ filename: index.md
 title: Project Interoperability
 ---
 
-## [Main Project Interoperability (Demo) Content](http://pi.ida.org/)
+Project Interoperability is a start-up guide for information
+interoperability.  The tools and resources presented here are in different
+levels of maturity, and some of them are even still drafts. They are made
+available here as a resource for improving information interoperability in
+and outside of government.
+
+## External Links
+
+* [Main Project Interoperability (Demo) Content](http://pi.ida.org/)
 
 ## Use Cases
 
-### [Maritme Information Sharing Environment](https://mise.mda.gov/)
-
-* [Client Code GitHub Site](http://github.com/ida-org/mise-demo/)
+* [Maritme Information Sharing Environment](/mise/)
