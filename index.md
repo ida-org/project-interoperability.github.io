@@ -18,4 +18,4 @@ and outside of government.
 
 ## Use Cases
 
-* [Maritme Information Sharing Environment](/mise/)
+* [Maritime Information Sharing Environment](mise/)
