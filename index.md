@@ -14,7 +14,7 @@ and outside of government.
 
 ## External Links
 
-* [Main Project Interoperability (Demo) Content](http://pi.ida.org/)
+* [Main Project Interoperability (Demo) Content](http://pi2.ida.org/)
 
 ## Use Cases
 
